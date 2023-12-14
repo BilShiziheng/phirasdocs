@@ -1,22 +1,13 @@
-Welcome to Lumache's documentation!
+欢迎来到Phira皮肤资源群!
 ===================================
+##引入
+这个群是由你们的~~傻逼~~善良群主在这里建的一个群，并**公开**
+这个文档由那个红围巾的我（ 搭建，基于`Read The docs`，如果有大佬的话可以去给`https://github.com/readthedocs/tutorial-template/`一个Star
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+##为什么要加载皮肤
+众所周知，~~皮肤是用来保护人的身体的~~，使用**皮肤**可以在**Phira**大大提升手感，也有一些生草的整活的皮肤
+那么怎么导入呢？请看左侧**导入皮肤**一栏
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+##如何导入自制谱
+众所周知，Phira是一款~~开放世界自制谱社区~~，里面有大量优质的自制谱，（当然也有一些整活的）供大家**下载**
+但是有人觉得靠这么亿点谱子不够玩，想自己导入，那么请看左侧**导入谱面**一栏
